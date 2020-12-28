@@ -1,4 +1,4 @@
-
+//Singly Linked List
 #include"iostream"
 #include"singly.h"
 using namespace std;
